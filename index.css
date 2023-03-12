@@ -1,0 +1,186 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+}
+.hero{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://wallpaperaccess.com/full/682226.jpg);
+background-size: cover;  
+padding-left: 80px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 60px;
+    padding-left: 8%;
+    padding-right: 8%;
+
+}
+.logo{
+    padding: auto;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 3.5px;
+}
+nav ul li a{
+    color: gold;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color: green;
+    transition:  .4s;
+}
+.btn{
+    background-color: aqua;
+    padding: 10px 25px;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    transition: transform .4s;
+}
+.b{
+    border-radius: 200%;
+    color: blue;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: purple;
+}
+.o h3{
+    color: aqua;
+    text-align: center;
+    margin-top: 10px;
+}
+.o h4{
+    text-align: center;
+    color: aqua;
+    margin-top: 20px;
+    font-size: 50px;
+}
+.o h5{
+    text-align: center;
+    color: aqua;
+    margin-top: 30px;
+    font-size: 350%;
+}
+.SAT{
+    font-size: 525%;
+}
+.d{
+    font-weight: 900;
+    text-transform:uppercase;
+    font-size: 200%;
+    margin-top: 20px;
+}
+.card{
+    text-align: center;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.card:hover{
+    box-shadow: black;
+    align-items: center;
+}
+.container{
+    padding: 2px 16px
+}
+#B{
+    font-size: large;
+    margin-top:200px;
+    text-align: center;
+}
+.tm{
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+.ser{
+    font-size: 450%;
+}
+.card{
+    
+    height: 365px;
+    width: 375px;
+    padding: 20px 35px;
+    background: red;
+    border-radius: 20px;
+    margin-top: 50px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+
+}
+.card i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 25px 0px;
+    color: #191919;
+}
+#email{
+    margin-top: 1500px;
+}
+.d{
+    width: 50%;
+    margin-top: 100px;
+}
+.about-text{
+    width: 550px;
+}
+.about{
+    width: 100%;
+    padding: 100px 0px;
+}
+.about-text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+} 
+.about-text h4{
+    color: black;
+    font-size: 710%;
+    
+}
+.about-text button{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    background-color: red;
+}
+button:hover{
+    background-color: lightblue;
+}
+  .call{
+    background-color: greenyellow;
+  }
+  
+.man img{
+    width: 50px;
+    margin-left: -60px;
+    height: 5lh;
+}
+.men h9{
+    color: #191919;
+font-size: 570%;
+}
+.men{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
