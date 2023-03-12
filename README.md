@@ -3,20 +3,16 @@ Porfolio
 ### Author : Name Date
 Belam Muia : 9/3/2023
 ## Project Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-******
+This is my first portfolio. I'll make it more better as i continue learning.
 
 ## SCREENSHOTS
-- link 1
-- link 2
+- image.png
 
 
 ********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
+* [HTML](lang Url)
 * [Framework](Framework URL)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 * [Testing Platform](Platform URL)
@@ -37,24 +33,19 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 >  $ pip install -r requirements.txt
 To install all requirements
 
-> $ python3 manage.py runserver
-Then run server with the above command
+
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
+Or you can access the web application directly via this [https://app.netlify.com/start/repos/belam170%2FThe-Tribe-Portfolio](https://app.netlify.com/start/repos/belam170%2FThe-Tribe-Portfolio.com/)
 *****
 ## Dependencies
-- Package Name
-- Package Name
-- Package Name
-- Package Name
+Google fonts
+Google wallpapers
+Font icons
 *****
 ## Technologies Used
 1. HTML
-2. MdBootstrap
-3. HTML
-4. CSS
-5. JavaScript
+2. CSS
 *****
 ## Contact Information
 * Email : belammuia0@gmail.com
