@@ -36,7 +36,7 @@ To install all requirements
 
 *****
 ## Live Link
-Or you can access the web application directly via this [https://app.netlify.com/start/repos/belam170%2FThe-Tribe-Portfolio](https://app.netlify.com/start/repos/belam170%2FThe-Tribe-Portfolio.com/)
+Or you can access the web application directly via this [https://creative-yeot-5a1f01.netlify.app](https://creative-yeot-5a1f01.netlify.app.com/)
 *****
 ## Dependencies
 Google fonts
